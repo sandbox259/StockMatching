@@ -68,10 +68,12 @@ public class MatchingEngineDemo {
             }
         };
 
-        // Launch 3 producer tasks.
+
+        /*// Launch 3 producer tasks.
         for (int i = 0; i < 3; i++) {
             producerPool.submit(orderProducer);
         }
+        */
 
         // Performance monitor: print stats every second.
         ScheduledExecutorService monitorExecutor = Executors.newSingleThreadScheduledExecutor();
@@ -106,7 +108,7 @@ public class MatchingEngineDemo {
 
         // Let the system run for a fixed time (e.g., 20 seconds) for demonstration.
         try {
-            Thread.sleep(20000);
+            Thread.sleep(200000);
         } catch (InterruptedException e) {
             Thread.currentThread().interrupt();
         }
