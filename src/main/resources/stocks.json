@@ -1,0 +1,29 @@
+{
+  "stocks": [
+    { "name": "Stock1", "minPrice": 10.0, "maxPrice": 15.0 },
+    { "name": "Stock2", "minPrice": 20.0, "maxPrice": 30.0 },
+    { "name": "Stock3", "minPrice": 30.0, "maxPrice": 45.0 },
+    { "name": "Stock4", "minPrice": 40.0, "maxPrice": 60.0 },
+    { "name": "Stock5", "minPrice": 50.0, "maxPrice": 75.0 },
+    { "name": "Stock6", "minPrice": 60.0, "maxPrice": 90.0 },
+    { "name": "Stock7", "minPrice": 70.0, "maxPrice": 105.0 },
+    { "name": "Stock8", "minPrice": 80.0, "maxPrice": 120.0 },
+    { "name": "Stock9", "minPrice": 90.0, "maxPrice": 135.0 },
+    { "name": "Stock10", "minPrice": 100.0, "maxPrice": 150.0 },
+    { "name": "Stock11", "minPrice": 110.0, "maxPrice": 165.0 },
+    { "name": "Stock12", "minPrice": 120.0, "maxPrice": 180.0 },
+    { "name": "Stock13", "minPrice": 130.0, "maxPrice": 195.0 },
+    { "name": "Stock14", "minPrice": 140.0, "maxPrice": 210.0 },
+    { "name": "Stock15", "minPrice": 150.0, "maxPrice": 225.0 },
+    { "name": "Stock16", "minPrice": 160.0, "maxPrice": 240.0 },
+    { "name": "Stock17", "minPrice": 170.0, "maxPrice": 255.0 },
+    { "name": "Stock18", "minPrice": 180.0, "maxPrice": 270.0 },
+    { "name": "Stock19", "minPrice": 190.0, "maxPrice": 285.0 },
+    { "name": "Stock20", "minPrice": 200.0, "maxPrice": 300.0 },
+    { "name": "Stock21", "minPrice": 210.0, "maxPrice": 315.0 },
+    { "name": "Stock22", "minPrice": 220.0, "maxPrice": 330.0 },
+    { "name": "Stock23", "minPrice": 230.0, "maxPrice": 345.0 },
+    { "name": "Stock24", "minPrice": 240.0, "maxPrice": 360.0 },
+    { "name": "Stock25", "minPrice": 250.0, "maxPrice": 375.0 }
+  ]
+}
